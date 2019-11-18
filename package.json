@@ -22,7 +22,7 @@
     "plugin"
   ],
   "engines": {
-    "node": ">=4.2"
+    "node": ">=6.0.0"
   },
   "author": "Keyvan Fatehi <keyvanfatehi@gmail.com>",
   "license": "MIT",
