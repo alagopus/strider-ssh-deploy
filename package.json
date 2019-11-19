@@ -47,8 +47,8 @@
   },
   "devDependencies": {
     "browserify": "^13.0.1",
-    "chai": "^3.5.0",
-    "eslint": "^4.19.1",
+    "chai": "^4.2.0",
+    "eslint": "^5.16.0",
     "mocha": "^5.2.0",
     "rimraf": "^2.2.8",
     "sinon": "^4.0.0",
